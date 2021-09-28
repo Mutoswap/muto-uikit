@@ -1,7 +1,5 @@
 # DITO UIkit
 
-[![Version](https://img.shields.io/npm/v/dito-uikit)](https://www.npmjs.com/package/dito-uikit) [![Size](https://img.shields.io/bundlephobia/min/dito-uikit)](https://www.npmjs.com/package/dito-uikit)
-
 DITO UIkit is a set of React components and hooks used to build pages on DITO's apps. It also contains a theme file for dark and light mode.
 
 ## Install
